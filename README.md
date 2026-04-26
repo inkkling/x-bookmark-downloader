@@ -184,4 +184,4 @@ Your Output Folder/
 
 ## Credits
 
-Built with [Claude Cowork](https://claude.ai). No prior coding knowledge required or used.
+Built by @noravoid_log with [Claude Cowork](https://claude.ai). No prior coding knowledge required or used.
